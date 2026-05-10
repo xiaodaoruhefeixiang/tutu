@@ -1,0 +1,36 @@
+{
+
+  "update_time": "2025-05-10",
+  "recommendations": [
+    {
+      "type": "artist",
+      "name": "ke-ta",
+      "pixiv_id": "3104565",
+      "reason": "东方画师，画风华丽",
+      "thumbnail_url": "https://your.domain/ke-ta_thumb.jpg"
+    },
+    {
+      "type": "artist",
+      "name": "kieed",
+      "pixiv_id": "11525066",
+      "reason": "色彩丰富，创意十足",
+      "thumbnail_url": "https://your.domain/kieed_thumb.jpg"
+    }
+  ],
+  "sites": [
+    {
+      "type": "website",
+      "name": "Pixiv",
+      "url": "https://www.pixiv.net",
+      "reason": "全球最大的插画社区",
+      "logo_url": "https://your.domain/pixiv_logo.png"
+    },
+    {
+      "type": "website",
+      "name": "Danbooru",
+      "url": "https://danbooru.donmai.us",
+      "reason": "二次元图片数据库，标签完善",
+      "logo_url": "https://your.domain/danbooru_logo.png"
+    }
+  ]
+}
